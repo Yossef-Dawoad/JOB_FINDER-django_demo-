@@ -28,3 +28,5 @@ Blog:
 Contact
 Home
 
+>> Loading Statics - [frontend] images ,css files, js files
+>> media files [upload] images uploads like instgrams and youtube videos
